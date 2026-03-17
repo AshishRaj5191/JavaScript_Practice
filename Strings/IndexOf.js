@@ -1,3 +1,3 @@
 let str = "Hello World";
 
-console.log(str.indexOf("Wor"));
+console.log(str.indexOf("World"));
